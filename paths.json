@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/aem-edge-poc/:/",
+    "/content/aaem-edge-poc/configuration:/.helix/config.json",
+    "/content/aem-edge-poc/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/aem-edge-poc/"
   ]
 }
